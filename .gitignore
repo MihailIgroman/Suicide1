@@ -1,7 +1,6 @@
-docs
-docs1/Word
-.venv
-.idea
+docs/
+docs1/Word/
+.venv/
 CLAUDE.md
 mkdocs.yml
 README.md
