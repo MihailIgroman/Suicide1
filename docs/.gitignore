@@ -1,3 +1,8 @@
 docs
 docs1/Word
 .venv
+.idea
+CLAUDE.md
+mkdocs.yml
+README.md
+requirements.txt
