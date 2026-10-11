@@ -1,0 +1,12 @@
+# export from bookshop-export v3
+date;code;title;genre;copies;price
+2026-03-01;0042;Dune;sci-fi;3;320,00
+2026-03-01;0007;Ubik;cyberpunk;;295,00
+2026-03-02;0113;Hyperion;sci-fi;2;410,00
+2026-03-02;0042;Dune;sci-fi;5;320,00
+2026-03-03;0085;Solaris;classic;4;189,90
+2026-03-04;0007;Ubik;cyberpunk;6;295,00
+2026-03-05;0261;Neuromancer;cyberpunk;-;275,50
+2026-03-05;0330;Foundation;classic;7;240,00
+2026-03-06;0113;Hyperion;sci-fi;4;410,00
+2026-03-07;0042;Dune;sci-fi;1;320,00
