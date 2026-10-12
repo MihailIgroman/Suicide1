@@ -5,3 +5,4 @@ CLAUDE.md
 mkdocs.yml
 README.md
 requirements.txt
+*.zip
